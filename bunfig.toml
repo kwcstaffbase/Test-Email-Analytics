@@ -1,0 +1,8 @@
+# Bun configuration file
+
+[install]
+# Enable caching for faster installations
+cache = true
+
+[build]
+# Build configuration if needed

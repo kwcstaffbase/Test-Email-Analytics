@@ -1,0 +1,17 @@
+{
+  "name": "@staffbase/email-performance-plugin",
+  "version": "0.1.0",
+  "description": "Staffbase Email Performance Custom Plugin",
+  "main": "src/EmailPerformancePlugin.tsx",
+  "scripts": {
+    "start": "plugin-scripts start",
+    "build": "plugin-scripts build",
+    "test": "plugin-scripts test"
+  },
+  "keywords": ["staffbase", "plugin"],
+  "author": "Staffbase Developer",
+  "license": "MIT",
+  "devDependencies": {
+    "@staffbase/plugin-scripts": "^1.0.0"
+  }
+}
